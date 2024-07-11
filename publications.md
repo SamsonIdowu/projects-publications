@@ -1,0 +1,10 @@
+- [Implementing DevSecOps Tool Chain Based on Open-Source Technology](https://blog.devops.dev/implementing-devsecops-tool-chain-based-on-open-source-technology-5d269b519aa9)
+- [Setting Up CI/CD Infrastructure with GitLab CI](https://blog.devops.dev/setting-up-ci-cd-infrastructure-with-gitlab-ci-b74883750b5a)
+- [Open Source SIEM Solution Using Wazuh and TheHive](https://samsonidowu.medium.com/open-source-siem-solution-using-wazuh-and-thehive-2b3ffdabc068)
+- [Building a Scalable Security Operations Center: A Focus on Open-source Tools](https://journaljerr.com/index.php/JERR/article/view/1203)
+- [Monitoring macOS resources with Wazuh](https://wazuh.com/blog/monitoring-macos-resources/)
+- [Wazuh multi-site implementation](https://wazuh.com/blog/wazuh-multi-site-implementation/#:~:text=In%20the%20Wazuh%20multi%2Dsite,entire%20Wazuh%20multi%2Dsite%20implementation.)
+- [Monitoring Windows resources with Performance Counters](https://wazuh.com/blog/monitoring-windows-resources-with-performance-counters/)
+- Using AI for security analysis in DevSecOps `soon to be published`
+- Alert Prioritization Techniques in Security Monitoring: A Focus on Aggregated Severity and System Attributes of Critical Infrastructure `soon to be published`
+- ShadowMatrix (A cyber deception framework) `in progress`
