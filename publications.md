@@ -6,5 +6,8 @@
 - [Wazuh multi-site implementation](https://wazuh.com/blog/wazuh-multi-site-implementation/#:~:text=In%20the%20Wazuh%20multi%2Dsite,entire%20Wazuh%20multi%2Dsite%20implementation.)
 - [Monitoring Windows resources with Performance Counters](https://wazuh.com/blog/monitoring-windows-resources-with-performance-counters/)
 - [Alert Prioritization Techniques in Security Monitoring: A Focus on Aggregated Severity and System Attributes of Critical Infrastructure](https://saudijournals.com/media/articles/SJEAT_97_334-339.pdf)
-- Using AI for security analysis in DevSecOps `soon to be published`
+- [Detecting DeerStealer malware with Wazuh](https://wazuh.com/blog/detecting-deerstealer-malware-with-wazuh/)
+- [Detecting Razr ransomware with Wazuh](https://wazuh.com/blog/detecting-razr-ransomware-with-wazuh/)
+- [Wazuh ruleset as code (RaC)](https://wazuh.com/blog/wazuh-ruleset-as-code-rac/)
+- Using AI for security analysis in DevSecOps `conference paper`
 - ShadowMatrix (A cyber deception framework) `in progress`
