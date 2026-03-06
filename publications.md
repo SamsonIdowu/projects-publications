@@ -9,5 +9,6 @@
 - [Detecting DeerStealer malware with Wazuh](https://wazuh.com/blog/detecting-deerstealer-malware-with-wazuh/)
 - [Detecting Razr ransomware with Wazuh](https://wazuh.com/blog/detecting-razr-ransomware-with-wazuh/)
 - [Wazuh ruleset as code (RaC)](https://wazuh.com/blog/wazuh-ruleset-as-code-rac/)
-- Using AI for security analysis in DevSecOps `conference paper`
+- [An AI-Based Security Analysis Solution for DevSecOps](https://link.springer.com/chapter/10.1007/978-3-032-09694-4_22)
+- [Detecting DNS tunneling attacks with Wazuh](https://wazuh.com/blog/detecting-dns-tunneling-attacks-with-wazuh/)
 - ShadowMatrix (A cyber deception framework) `in progress`
