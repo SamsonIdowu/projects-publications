@@ -11,4 +11,5 @@
 - [Wazuh ruleset as code (RaC)](https://wazuh.com/blog/wazuh-ruleset-as-code-rac/)
 - [An AI-Based Security Analysis Solution for DevSecOps](https://link.springer.com/chapter/10.1007/978-3-032-09694-4_22)
 - [Detecting DNS tunneling attacks with Wazuh](https://wazuh.com/blog/detecting-dns-tunneling-attacks-with-wazuh/)
-- [ShadowMatrix Cyber Deception Framework](https://www.theshadowmatrix.org/) (CDF) `in progress`
+- [ShadowMatrix CDF](https://www.theshadowmatrix.org/) `in progress`
+- [Cloud Security Lab: AWS-IAM](https://github.com/SNE22-INNOPOLIS/AWS-IAM)  `in progress`
